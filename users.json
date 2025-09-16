@@ -18,5 +18,13 @@
     "credentialId": "ID-63HX888N",
     "ip": "103.65.214.229",
     "registered": false
+  },
+  {
+    "credentialId": "manual",
+    "ip": "-",
+    "username": "balzy",
+    "password": "balzy",
+    "role": "owner",
+    "registered": true
   }
 ]
