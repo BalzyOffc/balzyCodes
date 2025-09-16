@@ -30,6 +30,9 @@
   {
     "credentialId": "ID-AIV1YN2C",
     "ip": "103.65.214.229",
-    "registered": false
+    "registered": true,
+    "username": "Testing",
+    "password": "1",
+    "role": "user"
   }
 ]
