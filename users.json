@@ -1,0 +1,5 @@
+[
+  {"username":"balzy","password":"balzy01","role":"owner"},
+  {"username":"balzy01","password":"balzy02","role":"admin"},
+  {"username":"balzy02","password":"balzy03","role":"user"}
+]
