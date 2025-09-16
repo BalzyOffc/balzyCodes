@@ -1,5 +1,22 @@
 [
-  {"username":"balzy","password":"balzy01","role":"owner"},
-  {"username":"balzy01","password":"balzy02","role":"admin"},
-  {"username":"balzy02","password":"balzy03","role":"user"}
+  {
+    "username": "balzy",
+    "password": "balzy01",
+    "role": "owner"
+  },
+  {
+    "username": "balzy01",
+    "password": "balzy02",
+    "role": "admin"
+  },
+  {
+    "username": "balzy02",
+    "password": "balzy03",
+    "role": "user"
+  },
+  {
+    "credentialId": "ID-63HX888N",
+    "ip": "103.65.214.229",
+    "registered": false
+  }
 ]
